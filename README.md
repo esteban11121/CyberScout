@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cyberscout_logo.jpg" width="300" alt="CyberScout Logo">
+<img src="cyberscout_logo.jpg" width="300" alt="CyberScout Logo">
 
 # **CyberScout 🛰️**
 
@@ -196,5 +196,6 @@ Si te sirve:
 ⭐ **¡Deja una estrella en el repo!**
 
 *Happy Hunting (Ético) 🕵️‍♂️🛡️*
+
 
 </div>
